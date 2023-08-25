@@ -4,7 +4,7 @@ import Pesquisa from './componentes/Pesquisa';
 
 const AppContainer = styled.div`
   width: 100vw;
-  height: 100vh;
+  height: 200vh;
   background-image: linear-gradient(90deg, #4b0052 35%, #3c0f66);
 `
 
